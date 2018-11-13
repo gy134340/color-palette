@@ -1,8 +1,11 @@
 # color-palette
 配色
 
+from https://refactoringui.com/previews/building-your-color-palette/
+
+really awesome!!!
+
 ## break a good color palette down into three categories
-https://refactoringui.com/previews/building-your-color-palette/
 
 ### Greys
 
@@ -50,7 +53,7 @@ https://refactoringui.com/previews/building-your-color-palette/
 
 #### error 红色
 
-```css
+``css
 @darkest-red: #631718;
 @darker-red: #881a1c;
 @dark-red: #b82021;
